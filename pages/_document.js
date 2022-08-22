@@ -17,7 +17,7 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="Landingpage VPN LaslesVPN Best VPN For Privacy, Country and Cheapest"
+            content="DAR SUKAR Best choice for health"
           />
         </Head>
         <body>
